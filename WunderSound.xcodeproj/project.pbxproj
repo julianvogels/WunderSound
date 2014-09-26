@@ -1,0 +1,471 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B9CE2E0619D59E9500E87355 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9CE2E0519D59E9500E87355 /* Foundation.framework */; };
+		B9CE2E0819D59E9500E87355 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9CE2E0719D59E9500E87355 /* CoreGraphics.framework */; };
+		B9CE2E0A19D59E9500E87355 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9CE2E0919D59E9500E87355 /* UIKit.framework */; };
+		B9CE2E1019D59E9500E87355 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B9CE2E0E19D59E9500E87355 /* InfoPlist.strings */; };
+		B9CE2E1219D59E9500E87355 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B9CE2E1119D59E9500E87355 /* main.m */; };
+		B9CE2E1619D59E9500E87355 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B9CE2E1519D59E9500E87355 /* AppDelegate.m */; };
+		B9CE2E1919D59E9500E87355 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9CE2E1719D59E9500E87355 /* Main.storyboard */; };
+		B9CE2E1C19D59E9500E87355 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9CE2E1B19D59E9500E87355 /* ViewController.m */; };
+		B9CE2E1E19D59E9600E87355 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9CE2E1D19D59E9600E87355 /* Images.xcassets */; };
+		B9CE2E2519D59E9600E87355 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9CE2E2419D59E9600E87355 /* XCTest.framework */; };
+		B9CE2E2619D59E9600E87355 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9CE2E0519D59E9500E87355 /* Foundation.framework */; };
+		B9CE2E2719D59E9600E87355 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9CE2E0919D59E9500E87355 /* UIKit.framework */; };
+		B9CE2E2F19D59E9600E87355 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B9CE2E2D19D59E9600E87355 /* InfoPlist.strings */; };
+		B9CE2E3119D59E9600E87355 /* WunderSoundTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B9CE2E3019D59E9600E87355 /* WunderSoundTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B9CE2E2819D59E9600E87355 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B9CE2DFA19D59E9500E87355 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B9CE2E0119D59E9500E87355;
+			remoteInfo = WunderSound;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B9CE2E0219D59E9500E87355 /* WunderSound.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WunderSound.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9CE2E0519D59E9500E87355 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		B9CE2E0719D59E9500E87355 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		B9CE2E0919D59E9500E87355 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		B9CE2E0D19D59E9500E87355 /* WunderSound-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WunderSound-Info.plist"; sourceTree = "<group>"; };
+		B9CE2E0F19D59E9500E87355 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B9CE2E1119D59E9500E87355 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B9CE2E1319D59E9500E87355 /* WunderSound-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WunderSound-Prefix.pch"; sourceTree = "<group>"; };
+		B9CE2E1419D59E9500E87355 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		B9CE2E1519D59E9500E87355 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		B9CE2E1819D59E9500E87355 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B9CE2E1A19D59E9500E87355 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		B9CE2E1B19D59E9500E87355 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		B9CE2E1D19D59E9600E87355 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		B9CE2E2319D59E9600E87355 /* WunderSoundTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WunderSoundTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9CE2E2419D59E9600E87355 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		B9CE2E2C19D59E9600E87355 /* WunderSoundTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WunderSoundTests-Info.plist"; sourceTree = "<group>"; };
+		B9CE2E2E19D59E9600E87355 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		B9CE2E3019D59E9600E87355 /* WunderSoundTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WunderSoundTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B9CE2DFF19D59E9500E87355 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9CE2E0819D59E9500E87355 /* CoreGraphics.framework in Frameworks */,
+				B9CE2E0A19D59E9500E87355 /* UIKit.framework in Frameworks */,
+				B9CE2E0619D59E9500E87355 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9CE2E2019D59E9600E87355 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9CE2E2519D59E9600E87355 /* XCTest.framework in Frameworks */,
+				B9CE2E2719D59E9600E87355 /* UIKit.framework in Frameworks */,
+				B9CE2E2619D59E9600E87355 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B9CE2DF919D59E9500E87355 = {
+			isa = PBXGroup;
+			children = (
+				B9CE2E0B19D59E9500E87355 /* WunderSound */,
+				B9CE2E2A19D59E9600E87355 /* WunderSoundTests */,
+				B9CE2E0419D59E9500E87355 /* Frameworks */,
+				B9CE2E0319D59E9500E87355 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B9CE2E0319D59E9500E87355 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B9CE2E0219D59E9500E87355 /* WunderSound.app */,
+				B9CE2E2319D59E9600E87355 /* WunderSoundTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B9CE2E0419D59E9500E87355 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B9CE2E0519D59E9500E87355 /* Foundation.framework */,
+				B9CE2E0719D59E9500E87355 /* CoreGraphics.framework */,
+				B9CE2E0919D59E9500E87355 /* UIKit.framework */,
+				B9CE2E2419D59E9600E87355 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B9CE2E0B19D59E9500E87355 /* WunderSound */ = {
+			isa = PBXGroup;
+			children = (
+				B9CE2E1419D59E9500E87355 /* AppDelegate.h */,
+				B9CE2E1519D59E9500E87355 /* AppDelegate.m */,
+				B9CE2E1719D59E9500E87355 /* Main.storyboard */,
+				B9CE2E1A19D59E9500E87355 /* ViewController.h */,
+				B9CE2E1B19D59E9500E87355 /* ViewController.m */,
+				B9CE2E1D19D59E9600E87355 /* Images.xcassets */,
+				B9CE2E0C19D59E9500E87355 /* Supporting Files */,
+			);
+			path = WunderSound;
+			sourceTree = "<group>";
+		};
+		B9CE2E0C19D59E9500E87355 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B9CE2E0D19D59E9500E87355 /* WunderSound-Info.plist */,
+				B9CE2E0E19D59E9500E87355 /* InfoPlist.strings */,
+				B9CE2E1119D59E9500E87355 /* main.m */,
+				B9CE2E1319D59E9500E87355 /* WunderSound-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B9CE2E2A19D59E9600E87355 /* WunderSoundTests */ = {
+			isa = PBXGroup;
+			children = (
+				B9CE2E3019D59E9600E87355 /* WunderSoundTests.m */,
+				B9CE2E2B19D59E9600E87355 /* Supporting Files */,
+			);
+			path = WunderSoundTests;
+			sourceTree = "<group>";
+		};
+		B9CE2E2B19D59E9600E87355 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B9CE2E2C19D59E9600E87355 /* WunderSoundTests-Info.plist */,
+				B9CE2E2D19D59E9600E87355 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B9CE2E0119D59E9500E87355 /* WunderSound */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B9CE2E3419D59E9600E87355 /* Build configuration list for PBXNativeTarget "WunderSound" */;
+			buildPhases = (
+				B9CE2DFE19D59E9500E87355 /* Sources */,
+				B9CE2DFF19D59E9500E87355 /* Frameworks */,
+				B9CE2E0019D59E9500E87355 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WunderSound;
+			productName = WunderSound;
+			productReference = B9CE2E0219D59E9500E87355 /* WunderSound.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B9CE2E2219D59E9600E87355 /* WunderSoundTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B9CE2E3719D59E9600E87355 /* Build configuration list for PBXNativeTarget "WunderSoundTests" */;
+			buildPhases = (
+				B9CE2E1F19D59E9600E87355 /* Sources */,
+				B9CE2E2019D59E9600E87355 /* Frameworks */,
+				B9CE2E2119D59E9600E87355 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B9CE2E2919D59E9600E87355 /* PBXTargetDependency */,
+			);
+			name = WunderSoundTests;
+			productName = WunderSoundTests;
+			productReference = B9CE2E2319D59E9600E87355 /* WunderSoundTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B9CE2DFA19D59E9500E87355 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Julian Vogels";
+				TargetAttributes = {
+					B9CE2E2219D59E9600E87355 = {
+						TestTargetID = B9CE2E0119D59E9500E87355;
+					};
+				};
+			};
+			buildConfigurationList = B9CE2DFD19D59E9500E87355 /* Build configuration list for PBXProject "WunderSound" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B9CE2DF919D59E9500E87355;
+			productRefGroup = B9CE2E0319D59E9500E87355 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B9CE2E0119D59E9500E87355 /* WunderSound */,
+				B9CE2E2219D59E9600E87355 /* WunderSoundTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B9CE2E0019D59E9500E87355 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9CE2E1E19D59E9600E87355 /* Images.xcassets in Resources */,
+				B9CE2E1019D59E9500E87355 /* InfoPlist.strings in Resources */,
+				B9CE2E1919D59E9500E87355 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9CE2E2119D59E9600E87355 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9CE2E2F19D59E9600E87355 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B9CE2DFE19D59E9500E87355 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9CE2E1C19D59E9500E87355 /* ViewController.m in Sources */,
+				B9CE2E1619D59E9500E87355 /* AppDelegate.m in Sources */,
+				B9CE2E1219D59E9500E87355 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9CE2E1F19D59E9600E87355 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9CE2E3119D59E9600E87355 /* WunderSoundTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B9CE2E2919D59E9600E87355 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B9CE2E0119D59E9500E87355 /* WunderSound */;
+			targetProxy = B9CE2E2819D59E9600E87355 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		B9CE2E0E19D59E9500E87355 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B9CE2E0F19D59E9500E87355 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		B9CE2E1719D59E9500E87355 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B9CE2E1819D59E9500E87355 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B9CE2E2D19D59E9600E87355 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B9CE2E2E19D59E9600E87355 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B9CE2E3219D59E9600E87355 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		B9CE2E3319D59E9600E87355 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B9CE2E3519D59E9600E87355 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WunderSound/WunderSound-Prefix.pch";
+				INFOPLIST_FILE = "WunderSound/WunderSound-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		B9CE2E3619D59E9600E87355 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WunderSound/WunderSound-Prefix.pch";
+				INFOPLIST_FILE = "WunderSound/WunderSound-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		B9CE2E3819D59E9600E87355 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/WunderSound.app/WunderSound";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WunderSound/WunderSound-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "WunderSoundTests/WunderSoundTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		B9CE2E3919D59E9600E87355 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/WunderSound.app/WunderSound";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WunderSound/WunderSound-Prefix.pch";
+				INFOPLIST_FILE = "WunderSoundTests/WunderSoundTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B9CE2DFD19D59E9500E87355 /* Build configuration list for PBXProject "WunderSound" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9CE2E3219D59E9600E87355 /* Debug */,
+				B9CE2E3319D59E9600E87355 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B9CE2E3419D59E9600E87355 /* Build configuration list for PBXNativeTarget "WunderSound" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9CE2E3519D59E9600E87355 /* Debug */,
+				B9CE2E3619D59E9600E87355 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		B9CE2E3719D59E9600E87355 /* Build configuration list for PBXNativeTarget "WunderSoundTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9CE2E3819D59E9600E87355 /* Debug */,
+				B9CE2E3919D59E9600E87355 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B9CE2DFA19D59E9500E87355 /* Project object */;
+}
