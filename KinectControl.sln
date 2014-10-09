@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectControl", "KinectControl\KinectControl\KinectControl.csproj", "{BB9D44EE-ABE0-46A0-B9C0-66F431FBCA34}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "KinectControlContent", "KinectControl\KinectControlContent\KinectControlContent.contentproj", "{1734365E-D571-4985-9608-CFC0974723FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB9D44EE-ABE0-46A0-B9C0-66F431FBCA34}.Debug|x86.ActiveCfg = Debug|x86
+		{BB9D44EE-ABE0-46A0-B9C0-66F431FBCA34}.Debug|x86.Build.0 = Debug|x86
+		{BB9D44EE-ABE0-46A0-B9C0-66F431FBCA34}.Release|x86.ActiveCfg = Release|x86
+		{BB9D44EE-ABE0-46A0-B9C0-66F431FBCA34}.Release|x86.Build.0 = Release|x86
+		{1734365E-D571-4985-9608-CFC0974723FA}.Debug|x86.ActiveCfg = Debug|x86
+		{1734365E-D571-4985-9608-CFC0974723FA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,213 @@
+c:\users\user\documents\visual studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\KinectControl.exe
+c:\users\user\documents\visual studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\KinectControl.pdb
+c:\users\user\documents\visual studio 2010\Projects\KinectControl\KinectControl\KinectControl\obj\x86\Debug\KinectControl.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\KinectControl\KinectControl\KinectControl\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\user\documents\visual studio 2010\Projects\KinectControl\KinectControl\KinectControl\obj\x86\Debug\KinectControl.exe
+c:\users\user\documents\visual studio 2010\Projects\KinectControl\KinectControl\KinectControl\obj\x86\Debug\KinectControl.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-dead.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-green.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-red.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-white.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\A.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\B.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\C.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\cursor2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\D.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\E.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\exit.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\F.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\G.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\H.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\I.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\J.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\K.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\L.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\M.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\N.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\next.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\O.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\OK.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\P.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\Q.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\R.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\S.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\T.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\U.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\V.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\W.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\X.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\Y.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\Z.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\black.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\GUC.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\cursor2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\gradientTexture.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-dead.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-green.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-red.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-white.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\A.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\B.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\C.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\cursor2.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\D.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\E.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\F.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\G.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\H.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\I.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\J.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\K.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\L.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\M.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\N.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\next.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\O.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\OK.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\P.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\Q.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\R.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\S.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\T.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\U.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\V.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\W.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\X.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\Y.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\Z.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\black.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\gradientTexture.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\KinectControl.exe
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\KinectControl.pdb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\obj\x86\Debug\KinectControl.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\obj\x86\Debug\KinectControl.exe
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\obj\x86\Debug\KinectControl.pdb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Audio\Skepta - Cradle To Da Grave.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Audio\song.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Audio\song2.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Audio\Skepta - Cradle To Da Grave.wma
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Audio\song.wma
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Audio\song2.wma
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\gradient.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Fontopo.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\obj\x86\Debug\KinectControl.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\obj\x86\Debug\KinectControl.exe
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\obj\x86\Debug\KinectControl.pdb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-dead.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-green.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-red.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-white.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\A.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\B.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\C.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\cursor2.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\D.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\E.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\F.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\G.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\H.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\I.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\J.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\K.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\L.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\M.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\N.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\next.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\O.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\OK.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\P.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\Q.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\R.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\S.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\T.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\U.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\V.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\W.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\X.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\Y.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\Z.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\black.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\GUC.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\cursor2.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\gradientTexture.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\gradient.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Fontopo.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Audio\Skepta - Cradle To Da Grave.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Audio\song.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Audio\song2.xnb
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Audio\Skepta - Cradle To Da Grave.wma
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Audio\song.wma
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Audio\song2.wma
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\KinectControl.exe
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControl\bin\x86\Debug\KinectControl.pdb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\Wundersound.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\OK.xnb
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\cursor2.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-dead.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-green.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-red.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-white.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\cursor2.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\OK.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\black.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\gradientTexture.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\gradient.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\Wundersound.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\OK.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\cursor2.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Content\Fontopo.xnb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\KinectControl.exe
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\KinectControl.pdb
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\obj\x86\Debug\KinectControl.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\obj\x86\Debug\KinectControl.exe
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControl\obj\x86\Debug\KinectControl.pdb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\obj\x86\Debug\KinectControl.exe
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\obj\x86\Debug\KinectControl.pdb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-dead.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-green.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-red.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-white.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\cursor2.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\OK.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\black.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\gradientTexture.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\gradient.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\Wundersound.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\OK.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\cursor2.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Content\Fontopo.xnb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\KinectControl.exe
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\KinectControl.pdb
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\obj\x86\Debug\KinectControl.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControl\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-dead.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-green.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-red.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\avatar-white.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\cursor2.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\Buttons\OK.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\black.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\gradientTexture.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\gradient.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\Wundersound.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\OK.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\Textures\cursor2.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\Content\Fontopo.xnb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\KinectControl.exe
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\bin\x86\Debug\KinectControl.pdb
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\obj\x86\Debug\KinectControl.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\obj\x86\Debug\KinectControl.exe
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControl\obj\x86\Debug\KinectControl.pdb

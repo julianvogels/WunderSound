@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2010\Projects\KinectControl\KinectControl\KinectControlContent\obj\x86\Debug\KinectControlContent.contentprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\KinectControl\KinectControl\KinectControlContent\obj\x86\Debug\KinectControlContent.contentprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\KinectControl\KinectControl\KinectControlContent\obj\x86\Debug\KinectControlContent.contentprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Wundersound\KinectControl\KinectControlContent\obj\x86\Debug\KinectControlContent.contentprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Wundasaund\KinectControl\KinectControlContent\obj\x86\Debug\KinectControlContent.contentprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Wundersound\WunderSound\KinectControl\KinectControlContent\obj\x86\Debug\KinectControlContent.contentprojResolveAssemblyReference.cache
